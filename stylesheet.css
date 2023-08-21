@@ -11,6 +11,8 @@ body {
   font-family: 'Overpass', sans-serif;
 }
 
+/* container */
+
 #container, .form {
   background-color: #1f2630;
   max-width: 400px;
@@ -48,6 +50,8 @@ p {
   font-size: 15px;
 }
 
+/* rating buttons */
+
 .btn {
   display: flex;
   align-items: center;
@@ -67,7 +71,6 @@ p {
   font-size: 15px;
 }
 
-
 .btn button:hover{ 
   color: #272e38;
   cursor: pointer;
@@ -77,6 +80,8 @@ p {
 .btn button:active{
 transform: translateY(1px);
 }
+
+/* submit button */
 
 .submit-btn{
   text-align: center;
@@ -102,6 +107,8 @@ transform: translateY(1px);
   transform: translateY(1px);
   }
 
+/* attribution */
+
 .attribution {
   text-align: center;
   color: #545d66;
@@ -119,11 +126,7 @@ transform: translateY(1px);
   text-decoration: underline;
 }
 
-.hidden {
-  display: none;
-}
-
-/* form*/
+/* form */
 
 .form {
   text-align: center;
@@ -154,9 +157,11 @@ transform: translateY(1px);
   margin-right: 40px;
 }
 
+.hidden {
+  display: none;
+}
 
-
-/* media quiray*/
+/* media query*/
 
 @media screen and (max-width: 600px) {
   .container, .form {
