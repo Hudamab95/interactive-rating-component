@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: (https://your-live-site-url.com](https://hudamab95.github.io/interactive-rating-component/#)
+- Live Site URL: ([https://your-live-site-url.com](https://hudamab95.github.io/interactive-rating-component/#)]
 
 ## My process
 
